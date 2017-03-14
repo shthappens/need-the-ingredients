@@ -1,0 +1,5 @@
+I ran the server (ruby.server.rb) and I added each ingredient by using curl.
+
+* curl --data "ingredient=3/4 teaspoon kosher salt" localhost:4567/ingredients
+* curl --data "ingredient=1/2 teaspoon freshly ground black pepper" localhost:4567/ingredients
+* curl --data "ingredient=1/2 teaspoon freshly ground black pepper" localhost:4567/ingredients
